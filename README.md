@@ -11,14 +11,14 @@ Ask for the multi-representantional datasets so that you can easily reproduce EM
 ### Experiments
 To train the parser, just include the provided datasets and pre-trained word embeddings in ``data`` and ``embs`` folders, respectively; and, then, run the following script (in Python2) for each treebank that you want to work with:
 
-    ./scripts/run_parser_<ptb|lctb|zctb|negra|tiger>.sh <model name>
+    ./scripts/run_parser_<ptb|lctb|zctb|negra|tiger>.sh <model_name>
 
 Finally, to decode augmented dependencies into constituent trees, just use the following script (in Python3) to compute the F1 scores (you must indicate the model name and the epoch of the best trained model on dev):
 
-    ./scripts/eval_<ptb|lctb|zctb|negra|tiger>.sh <model name> <best epoch>
+    ./scripts/eval_<ptb|lctb|zctb|negra|tiger>.sh <model_name> <best_epoch>
 
 ### Citation
-To appear in AAAI 2020.
+To appear in EMNLP 2020.
     
 ### Acknowledgments
 This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from the ANSWER-ASAP project (TIN2017-85160-C2-1-R) from MINECO, and from Xunta de Galicia (ED431B 2017/01, ED431G 2019/01).
