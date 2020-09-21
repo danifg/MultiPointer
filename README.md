@@ -21,7 +21,7 @@ Finally, to decode augmented dependencies into constituent trees, just use the f
 
     
 ### Acknowledgments
-This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from the ANSWER-ASAP project (TIN2017-85160-C2-1-R) from MINECO, and from Xunta de Galicia (ED431B 2017/01, ED431G 2019/01).
+This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from the ANSWER-ASAP project (TIN2017-85160-C2-1-R) from MINECO, and from Xunta de Galicia (ED431B 2017/01). The CITIC research center has been funded by Xunta de Galicia and the European Union (European Regional Development Fund - Galicia 2014-2020 Program), by grant ED431G 2019/01.
 
 ### Contact
 If you have any suggestion, inquiry or bug to report, please contact d.fgonzalez@udc.es
